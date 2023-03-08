@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Jate Text Editor",
-  "short_name": "Jate",
+  "name": "JATE Text Editor",
+  "short_name": "JATE",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
