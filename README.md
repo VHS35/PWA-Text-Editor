@@ -12,3 +12,5 @@ Text editor app that meets PWA criteria. App should function offline and use pac
 {https://drive.google.com/file/d/1ZIlA238uxOg2S8E2mBhqaaxJNVzWaVFA/view}
 
 ## Current Heroku Screenshot error
+[screenshot1](./herokuscrnsht1.png)
+[screenshot2](./herokuscrnsht2.png)
